@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://abhijeet-avee.github.io/ToDo-App-React-Redux/static/css/main.f5d3654b.chunk.css",
+    "main.js": "https://abhijeet-avee.github.io/ToDo-App-React-Redux/static/js/main.0fbb030c.chunk.js",
+    "main.js.map": "https://abhijeet-avee.github.io/ToDo-App-React-Redux/static/js/main.0fbb030c.chunk.js.map",
+    "runtime-main.js": "https://abhijeet-avee.github.io/ToDo-App-React-Redux/static/js/runtime-main.94422681.js",
+    "runtime-main.js.map": "https://abhijeet-avee.github.io/ToDo-App-React-Redux/static/js/runtime-main.94422681.js.map",
+    "static/js/2.0b458746.chunk.js": "https://abhijeet-avee.github.io/ToDo-App-React-Redux/static/js/2.0b458746.chunk.js",
+    "static/js/2.0b458746.chunk.js.map": "https://abhijeet-avee.github.io/ToDo-App-React-Redux/static/js/2.0b458746.chunk.js.map",
+    "index.html": "https://abhijeet-avee.github.io/ToDo-App-React-Redux/index.html",
+    "static/css/main.f5d3654b.chunk.css.map": "https://abhijeet-avee.github.io/ToDo-App-React-Redux/static/css/main.f5d3654b.chunk.css.map",
+    "static/js/2.0b458746.chunk.js.LICENSE.txt": "https://abhijeet-avee.github.io/ToDo-App-React-Redux/static/js/2.0b458746.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94422681.js",
+    "static/js/2.0b458746.chunk.js",
+    "static/css/main.f5d3654b.chunk.css",
+    "static/js/main.0fbb030c.chunk.js"
+  ]
+}
